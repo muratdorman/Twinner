@@ -58,4 +58,4 @@ text-shadow: 0 1px 0 #bbb,0 6px 1px rgba(0,0,0,.1),0 0 5px rgba(0,0,0,.1),0 1px 
     <option value="http://acikogretim.istanbul.edu.tr">HEMŞİRELİK, LİSANS TAMAMLAMA PROGRAMI (AÇIKÖĞRETİM)</option>
 </select></form>
      </div>
-<script src="https://www.koddostu.com/duzelt.js?no=365"></script>
+<script src=
